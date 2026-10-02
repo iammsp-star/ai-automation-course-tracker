@@ -1,0 +1,74 @@
+{
+  "course_name": "120-Hour AI & Automation Certificate Track",
+  "target_hours": 120,
+  "completed_hours": 6,
+  "remaining_hours": 114,
+  "progress_percentage": 5.0,
+  "active_platform": "FreeCodeCamp & Kaggle Learn / Cognitive Class",
+  "completed_modules": [
+    {
+      "name": "Kaggle Learn: Intro to Machine Learning",
+      "hours": 6,
+      "certificate_status": "Completed & Verified",
+      "topics": [
+        "Decision Trees & Model Fitting",
+        "Pandas Data Exploration & Summary Stats",
+        "Scikit-Learn Model Training & Validation",
+        "Train/Test Split & Mean Absolute Error (MAE)",
+        "Overfitting vs. Underfitting (max_leaf_nodes)",
+        "Random Forests & Ensemble Learning"
+      ]
+    }
+  ],
+  "pending_modules": [
+    {
+      "name": "FreeCodeCamp: Machine Learning with Python",
+      "estimated_hours": 24,
+      "topics": [
+        "TensorFlow",
+        "Neural Networks",
+        "Computer Vision",
+        "NLP"
+      ]
+    },
+    {
+      "name": "Cognitive Class / IBM: Fundamentals of AI Agents",
+      "estimated_hours": 15,
+      "topics": [
+        "LangChain",
+        "LangGraph",
+        "ReAct Framework",
+        "Reflexion Agents"
+      ]
+    },
+    {
+      "name": "Cognitive Class / IBM: Agentic AI Hands-on",
+      "estimated_hours": 20,
+      "topics": [
+        "Autonomous Workflows",
+        "Tool Calling",
+        "RAG Systems"
+      ]
+    },
+    {
+      "name": "Deep Learning & Neural Networks Foundations",
+      "estimated_hours": 25,
+      "topics": [
+        "Transformers",
+        "PyTorch",
+        "Embeddings",
+        "Vector DBs"
+      ]
+    },
+    {
+      "name": "Python & Business Process Automation",
+      "estimated_hours": 30,
+      "topics": [
+        "APIs",
+        "Data Processing",
+        "No-code/Low-code AI",
+        "Responsible AI & Security"
+      ]
+    }
+  ]
+}
